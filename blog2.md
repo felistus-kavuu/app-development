@@ -14,3 +14,14 @@ This enables users to manage the complexity of large web applications and allows
 
 Apart from these well known frameworks, C# is also supported by Xamarin. It a cross-platform mobile development framework that allows developers to build native mobile apps for iOS, Android, and Windows using C# and the .NET Framework. C# is also used in the Unity game engine, which is used to develop 2D and 3D games for a variety of platforms. Mono is also supported by C#. Which is an open-source implementation of the .NET Framework that can be used to build cross-platform applications. Mono is commonly used on Linux and macOS.
 
+## Introduction to ASP.NET
+
+ASP.NET is a powerful and flexible web application framework that is developed by Microsoft and built on top of the .NET Framework. It is designed to make it easy for developers to build dynamic websites, web APIs, and web services using the C# programming language.
+
+One of the main benefits of using ASP.NET is that it provides a rich set of tools and libraries that make it easy to build and maintain web applications. It includes a variety of controls and components that can be used to build user interfaces, and it also includes a powerful security model that helps protect against common web vulnerabilities.
+
+ASP.NET applications are built using the MVC architecture, which separates the application into three distinct layers: the model, the view, and the controller. The model represents the data and business logic of the application, the view represents the user interface, and the controller manages the interaction between the model and the view. This separation of concerns makes it easier to manage the complexity of large web applications and allows developers to focus on specific parts of the application.
+
+In addition to building web applications, ASP.NET can also be used to build web APIs, which are used to expose data and functionality to other applications over the web. It includes a variety of tools and libraries that make it easy to build and consume web APIs, and it also supports a number of authentication and authorization mechanisms to help secure them.
+
+ASP.NET also includes support for building real-time web applications using WebSockets and other technologies. This allows developers to build applications that can send and receive data in real-time, enabling scenarios such as chat applications and collaborative editing tools.ASP.NET is a powerful and adaptable platform for building newest web applications, and it is widely used by web developers around the world. Its rich resource pool attracts more developers regularly. 
